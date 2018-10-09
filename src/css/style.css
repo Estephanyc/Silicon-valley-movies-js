@@ -1,0 +1,31 @@
+  body {
+      background-color: #494e58 !important;
+      font-family: 'Muli', sans-serif !important;
+  }
+  
+  .header {
+      border-top-right-radius: 1rem;
+      border-top-left-radius: 1rem;
+      background-color: #f26565;
+      font-size: 2rem;
+  }
+  
+  .header-movie img {
+      width: 4rem;
+      height: 4rem;
+      border: 4px solid #f2dee0;
+  }
+  
+  .cursor-pointer {
+      cursor: pointer;
+  }
+  
+  .movies-container {
+      background-color: #e6e4e4;
+      overflow: scroll;
+      height: 90vh;
+  }
+  
+  #movies {
+      display: none;
+  }
